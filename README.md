@@ -19,7 +19,7 @@
   <p align="center">
     Customer Segmentation Using K-Means Clustering Algorithm to help businesses understand their target audience.
     <br />
-    <a href="https://github.com/shie-ld/customer-segmentation/docs/docs.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/shie-ld/customer-segmentation/blob/main/docs/docs.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/shie-ld/customer-segmentation/issues">Report Bug</a>
