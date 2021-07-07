@@ -25,6 +25,8 @@ Run the following lines of code to import the necessary libraries and read the d
 
 ```
 # Imports
+!pip install kneed
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -314,7 +316,7 @@ Now that we’re done building these different clusters, lets try to interpret t
 First, lets map the clusters back to the dataset and take a look at the head of the data frame.
 
 ```
-df = pd.read_csv('Mall_Customers.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/shie-ld/datasets/main/Mall_Customers.csv')
 df = df.drop(['CustomerID'],axis=1)
 
 # map back clusters to dataframe
@@ -333,7 +335,7 @@ To compare attributes of the different clusters, lets find the average of all va
 
 ```
 avg_df = df.groupby(['cluster'], as_index=False).mean()
-avg_df.show()
+avg_df.head()
 ```
 
 ![](../images/ss11.png)

@@ -61,7 +61,7 @@ That means each sub-group/cluster will consist of features that distinguish them
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Just run [this](Notebook link) Jupyter Notebook hosted on Google Colab to see how the project is working. Else you can download Anaconda distribution on your system (Jupyter Notebook comes with it builtin) and run the notebook locally and you are good to go.
+Just run [this](https://colab.research.google.com/drive/1x2Vkg2Dz9le44DBlKlxk19ykL8mQ21PL?usp=sharing) Jupyter Notebook hosted on Google Colab to see how the project is working. Else you can download Anaconda distribution on your system (Jupyter Notebook comes with it builtin) and run the notebook locally and you are good to go.
 
 
 <!-- DOCUMENTATION -->
