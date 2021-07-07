@@ -387,7 +387,13 @@ df2.head()
 
 It is important to note that calculating the median age would provide better insight on the distribution of age within each cluster.
 
-Also, females are more highly represented in the entire dataset, which is why most clusters contain a larger number of females than males. We can find the percentage of each gender relative to the numbers in the entire dataset to give us a better idea of gender distribution.
+Also, females are more highly represented in the entire dataset, which is why most clusters contThese are individuals who have worked hard to build up a significant amount of wealth.
+
+They also spend large amounts of money to live a good lifestyle.
+
+These individuals have likely just started a family, and are leading baby or family-focused lifestyles. It is a good idea to promote baby or child related products to these individuals.
+
+Recommendation: Due to their large spending capacity and their demographic, these individuals are likely to be looking for properties to buy or invest in. They are also more likely than all other segments to take out housing loans and make serious financial commitments.ain a larger number of females than males. We can find the percentage of each gender relative to the numbers in the entire dataset to give us a better idea of gender distribution.
 
 
 ## Building personas around each cluster
@@ -400,44 +406,44 @@ This will help your clients or stakeholders understand your findings more easily
 
 ### Cluster 0: The frugal spender
 
-* This persona comprises of middle aged individuals who are very careful with money.
+	* This persona comprises of middle aged individuals who are very careful with money.
 
-* Despite having the highest average income compared to individuals in all other clusters, they spend the least.
+	* Despite having the highest average income compared to individuals in all other clusters, they spend the least.
 
-* This might be because they have financial responsibilities — like saving up for their kid’s higher education.
+	* This might be because they have financial responsibilities — like saving up for their kid’s higher education.
 
-* Recommendation: Promos, coupons, and discount codes will attract individuals in this segment due to their tendency to spend less
+	* Recommendation: Promos, coupons, and discount codes will attract individuals in this segment due to their tendency to spend less
 
 ### Cluster 1: Almost retired
 
-* This segment comprises of an older group of people.
+	* This segment comprises of an older group of people.
 
-* They earn less and spend less, and are probably saving up for retirement.
+	* They earn less and spend less, and are probably saving up for retirement.
 
-* Recommendation: Marketing to these individuals can be done through Facebook, which appeals to an older demographic. Promote healthcare related products to people in this segment.
+	* Recommendation: Marketing to these individuals can be done through Facebook, which appeals to an older demographic. Promote healthcare related products to people in this segment.
 
 ### Cluster 2: The careless buyer
 
-* This segment is made up of a younger age group.
+	* This segment is made up of a younger age group.
 
-* Individuals in this segment are most likely first jobbers. They make the least amount of money compared to all other segments.
+	* Individuals in this segment are most likely first jobbers. They make the least amount of money compared to all other segments.
 
-* However, they are very high spenders.
+	* However, they are very high spenders.
 
-* These are enthusiastic young individuals who enjoy living a good lifestyle, and tend to spend above their means.
+	* These are enthusiastic young individuals who enjoy living a good lifestyle, and tend to spend above their means.
 
-* Recommendation: Since these are young individuals who spend a lot, providing them with travel coupons or hotel discounts might be a good idea. Providing them with discounts off top clothing and makeup brands would also work well for this segment.
+	* Recommendation: Since these are young individuals who spend a lot, providing them with travel coupons or hotel discounts might be a good idea. Providing them with discounts off top clothing and makeup brands would also work well for this segment.
 
 
 ### Cluster 3: Highly affluent individuals
 
-* These are individuals who have worked hard to build up a significant amount of wealth.
+	* These are individuals who have worked hard to build up a significant amount of wealth.
 
-* They also spend large amounts of money to live a good lifestyle.
+	* They also spend large amounts of money to live a good lifestyle.
 
-* These individuals have likely just started a family, and are leading baby or family-focused lifestyles. It is a good idea to promote baby or child related products to these individuals.
+	* These individuals have likely just started a family, and are leading baby or family-focused lifestyles. It is a good idea to promote baby or child related products to these individuals.
 
-* Recommendation: Due to their large spending capacity and their demographic, these individuals are likely to be looking for properties to buy or invest in. They are also more likely than all other segments to take out housing loans and make serious financial commitments.
+	* Recommendation: Due to their large spending capacity and their demographic, these individuals are likely to be looking for properties to buy or invest in. They are also more likely than all other segments to take out housing loans and make serious financial commitments.
 
 
 
