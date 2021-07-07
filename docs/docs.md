@@ -402,9 +402,9 @@ Recommendation: Due to their large spending capacity and their demographic, thes
 
 Now that we know the attributes of each cluster, we can build personas around them.
 
-Being able to tell a story around your analysis is an important skill to have as a data scientist.
+Being able to tell a story around our analysis is an important skill to have as a data scientist.
 
-This will help your clients or stakeholders understand your findings more easily.
+This will help our clients or stakeholders understand your findings more easily.
 
 ### Cluster 0: The frugal spender
 
